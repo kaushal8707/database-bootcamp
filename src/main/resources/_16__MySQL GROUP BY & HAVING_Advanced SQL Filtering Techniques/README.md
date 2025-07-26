@@ -1,4 +1,8 @@
 
+# >> Group By is used to grouping a rows whose value is same in a specified column.
+# >> Group By commonly used with Aggregate function like count, min, max, sum, avg
+
+
 # GROUP BY Examples in SQL
 # Database Setup
 # =============================================
